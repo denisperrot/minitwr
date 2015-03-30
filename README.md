@@ -8,13 +8,13 @@ Celui-ci est également **important**
 
 ## Magic Cake
 
-*Ingrédients
-	*Lait
-	*Sucre
+1.Ingrédients
+    *Lait
+    *Sucre
 
-*Recette
-	1.Mélanger
-	2.Cuire
+2.Recette
+    *Mélanger
+    *Cuire
 
 #### FIN
 
